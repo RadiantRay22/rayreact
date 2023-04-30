@@ -1,0 +1,3 @@
+App.js is our home page 
+I want to add image 
+git remote remove origin 
